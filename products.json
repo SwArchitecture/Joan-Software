@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Joan-SAMA",
+    "description": "Analyze embedded firmware memory from ELF and YAML, and export the results as JSON.",
+    "link": "https://swarchitecture.github.io/Joan-SAMA/",
+    "enabled": true
+  },
+  {
+    "name": "Joan-SAMA-Report",
+    "description": "Convert SAMA JSON into an interactive HTML report and an Excel workbook.",
+    "link": "https://swarchitecture.github.io/Joan-SAMA-Report/",
+    "enabled": true
+  },
+  {
+    "name": "Joan License Client",
+    "description": "Collect a device fingerprint or check the status of an offline license.",
+    "link": "https://swarchitecture.github.io/Joan-License-Client",
+    "enabled": false
+  }
+]
